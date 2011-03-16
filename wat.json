@@ -42,4 +42,5 @@
 , "Detect of current browser like server's method"
 , "Hi, You may add \"ajax history\" future to jQuery. Best regards."
 , "It means that you can devote a your page, to those who do have JS turned on. I.e. only those with JS turned-on to call the function."
+, "my object contained methods wich evoked a \"cannot read undefined of undefined\" when Pushstate()"
 ]
