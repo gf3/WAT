@@ -43,4 +43,6 @@
 , "Hi, You may add \"ajax history\" future to jQuery. Best regards."
 , "It means that you can devote a your page, to those who do have JS turned on. I.e. only those with JS turned-on to call the function."
 , "my object contained methods wich evoked a \"cannot read undefined of undefined\" when Pushstate()"
+, "is there a way to charge a plugin inside the main file?"
+, "i have noticed there are many plugins that sometime i could need"
 ]
