@@ -45,4 +45,8 @@
 , "my object contained methods wich evoked a \"cannot read undefined of undefined\" when Pushstate()"
 , "is there a way to charge a plugin inside the main file?"
 , "i have noticed there are many plugins that sometime i could need"
+, "open a ticket? because problem is known"
+, "disable error tracking for try..catch is a must? is there an other way for me? :("
+, "insert an   if (!parent) return;  on every version? :p   no i dont want that"
+, "you know the problem, but can't reproduce it? ok i can make a fiddle for you"
 ]
