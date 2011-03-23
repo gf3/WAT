@@ -49,4 +49,5 @@
 , "disable error tracking for try..catch is a must? is there an other way for me? :("
 , "insert an   if (!parent) return;  on every version? :p   no i dont want that"
 , "you know the problem, but can't reproduce it? ok i can make a fiddle for you"
+, "IE has made the world of js libraries had to resort to things like that"
 ]
