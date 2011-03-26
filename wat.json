@@ -51,4 +51,5 @@
 , "you know the problem, but can't reproduce it? ok i can make a fiddle for you"
 , "IE has made the world of js libraries had to resort to things like that"
 , "how to properly load/get a the html select code when the only available way is html not json  for later appendit to an select element?"
+, "how would make an ajax call inside a click event?"
 ]
