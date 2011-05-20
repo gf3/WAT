@@ -70,4 +70,5 @@
 , "HTML5 will have some capabilities within the language to support Flash-like functionality"
 , "Inside this file I use sepcialised hacks to choose only one of both IE if needed."
 , "I have 2 jquerry file , nd i want to pass the argumnet to another jquery filw thwn they can do some operation"
+, "Hey, there's the word java in javascript, so that should guarantee the performance, right?"
 ]
