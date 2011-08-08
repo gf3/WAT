@@ -97,4 +97,5 @@
 , "if value took a function it could act like a finalize stage which would be nice for calculating averages after a map is called."
 , "hello all, what sort of arbitrary socket access (accept on any specified port, send out to arbitrary ips/ports) is available security and library wise nowadays in a JS client in browser?"
 , "Here someone else make programming jobs?"
+, "how send remote alert via jquery? seen on slideshare :/ need to persist"
 ]
