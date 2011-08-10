@@ -99,4 +99,5 @@
 , "Here someone else make programming jobs?"
 , "how send remote alert via jquery? seen on slideshare :/ need to persist"
 , "The CSS goes ok, but the jQuery doesn't with the PHP $strings."
+, "I am having a jsp that contains a jquery tab and inside tab i am having a custom search component on clicking the component a grid will open and it will act as an overlay and i used this plugin to close the grid if the user clicks outside the gridis working perfectly in all other element click other than jquery tab selection component"
 ]
