@@ -98,4 +98,5 @@
 , "hello all, what sort of arbitrary socket access (accept on any specified port, send out to arbitrary ips/ports) is available security and library wise nowadays in a JS client in browser?"
 , "Here someone else make programming jobs?"
 , "how send remote alert via jquery? seen on slideshare :/ need to persist"
+, "The CSS goes ok, but the jQuery doesn't with the PHP $strings."
 ]
