@@ -117,4 +117,5 @@
 , "BTW there's a QtSql tutorial here that covers opening a db and using QSqlTableModel, etc. If js's decided you aren't worth shit."
 , "C students in stronger algorithm theory mush as functional languages do. JS too imature ATM but it will catch up :D"
 , "Is jquery asking cpu power for the server?"
+, "if i save vars in a click event and trigger a change event in the click event, can i commit this vars in the change event?"
 ]
