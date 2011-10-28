@@ -120,4 +120,5 @@
 , "if i save vars in a click event and trigger a change event in the click event, can i commit this vars in the change event?"
 , "is it possible to write server in json?"
 , "man i really tought the business of JS was to call function"
+, "How can make this mutually exclusive using a jquery? Please help"
 ]
