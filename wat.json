@@ -135,4 +135,5 @@
 , "i've tried to declare a variable at the very begin of the function to have it in a scrope"
 , "I want to meet the person in ruby who came up with this idea of naming them as begin.. rescue... end. Thats one frantic whose siter would make it to every ruby programmers most dirty dreams."
 , "Documentation problem with jQuery.noConflict(). http://api.jquery.com/jQuery.noConflict/ ... this still didnt help and now my computer is freezing THANKS ALOT WITH YOUR HELP ASSHOLES"
+, "\"object literal singleton\" can't vs width other two."
 ]
