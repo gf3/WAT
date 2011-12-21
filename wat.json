@@ -136,4 +136,5 @@
 , "I want to meet the person in ruby who came up with this idea of naming them as begin.. rescue... end. Thats one frantic whose siter would make it to every ruby programmers most dirty dreams."
 , "Documentation problem with jQuery.noConflict(). http://api.jquery.com/jQuery.noConflict/ ... this still didnt help and now my computer is freezing THANKS ALOT WITH YOUR HELP ASSHOLES"
 , "\"object literal singleton\" can't vs width other two."
+, "I'm building a site in iframe . The main page is index.php (you know this url is always index.php )  and when i click a link inside a frame like home.php i want this url to be changed in the main page and the url to be index.php/home or something else  . I think  its must me something like client (pages in iframe) and server (index.php). Maybe with ajax ot  js  i don't know how to do it. Could you help me with ideas or some code"
 ]
