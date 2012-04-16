@@ -173,4 +173,5 @@
 , "What a bullshit:"
 , "my button name s \"click me here\" but the button length should be 80px ly and how to hide extra text s avl means"
 , "Video Wat: http://www.youtube.com/watch?v=b6DXpHlyDZQ"
+, "i've use $.ajaxSetup with contextType: 'application/json' it's work. but it don't solve my problem. the problem was not it."
 ]
