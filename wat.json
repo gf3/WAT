@@ -183,5 +183,6 @@
    "Real speak comes suddently.",
    "A common tool in functional programming that is of such utility it should be in core.",
    "Oh, I see. JQuery specially in the second to cache that was avoid memory takes too much. This is not a bug, Please closeed.",
-   "…support in browsers is, as with most of HTML5 features, not quite."
+   "…support in browsers is, as with most of HTML5 features, not quite.",
+   "\"I changed the line to 'var customVideo = $('#customVideo')\" - var makes it public though. oh well :\\. err global."
 ]
