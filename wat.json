@@ -209,5 +209,6 @@
    "Create something someone desire and they will marked it for you.",
    "I think nobody really use JS for untrusted code",
    "but I have a bumerang effect, I think",
-   "good day fellas, quick quest: how to deal yeomanConfig rewrite with a task running async?"
+   "good day fellas, quick quest: how to deal yeomanConfig rewrite with a task running async?",
+   "Keep in mind lot of sites that have HTML5 use it only on specific user-agents, they can't detect that you have Flash disbaled"
 ]
