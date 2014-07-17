@@ -226,5 +226,6 @@
    "As much as I don't like comma-first coding style, maybe wat.json could use that style. Reasons for: 1. One could just add their quote w/o having to update the previous line. 2. Git changeset would only show the new quote, not the added comma on the previous line. Reasons against: 1. It's somewhat ugly. Thoughts?",
    "need to know how to benchmark the engine.io . u have provided the git repository but the bench is not there",
    "about the fast thing I just saw this page and assuming vanilla js is close to js  it is faster --  http://vanilla-js.com/     in speed comparison section",
-   "get this computer back to normal"
+   "get this computer back to normal",
+   "Dear, When I wanted to use jquery in XUL files, the event was not responded."
 ]
